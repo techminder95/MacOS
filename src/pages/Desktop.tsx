@@ -82,7 +82,7 @@ export default function Desktop(props: MacActions) {
       r.style.transform = "scale(1)";
       r.style.transition = "ease-in 0.2s";
     } else {
-      r.style.transform = "scale(1.1)";
+      r.style.transform = "scale(1)";
       r.style.transition = "ease-out 0.2s";
     }
 
