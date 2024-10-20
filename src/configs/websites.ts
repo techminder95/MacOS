@@ -15,7 +15,7 @@ const websites: WebsitesData = {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: "https://github.com/techminer95"
       },
       {
         id: "my-linkedin",

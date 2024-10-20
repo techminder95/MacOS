@@ -53,7 +53,7 @@ const terminal: TerminalData[] = [
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/techminer95"
                 target="_blank"
                 rel="noreferrer"
               >
