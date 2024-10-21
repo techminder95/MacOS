@@ -24,22 +24,10 @@ const websites: WebsitesData = {
         link: "https://www.linkedin.com/in/xiaohan-zou"
       },
       {
-        id: "my-google-scholar",
-        title: "Scholar",
-        img: "img/sites/google-scholar.svg",
-        link: "https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
-      },
-      {
-        id: "my-twitter",
-        title: "Twitter",
-        img: "img/sites/twitter.svg",
-        link: "https://www.twitter.com/renovamen_zxh"
-      },
-      {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:techminer95@gmail.com"
       }
     ]
   },
@@ -53,46 +41,22 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-        id: "arxiv",
-        title: "arXiv",
-        img: "img/sites/arxiv.png",
-        link: "https://arxiv.org/"
+        id: "avawatz",
+        title: "Avawatz!",
+        img: "img/icons/launchpad/avawatz.png",
+        link: " https://avawatz.com/"
       },
       {
-        id: "twitter",
-        title: "Twitter",
-        img: "img/sites/twitter.svg",
-        link: "https://www.twitter.com/"
-      },
-      {
-        id: "dribbble",
-        title: "Dribbble",
-        img: "img/sites/dribbble.svg",
-        link: "https://dribbble.com/"
-      },
-      {
-        id: "pinterest",
-        title: "Pinterest",
-        img: "img/sites/pinterest.svg",
-        link: "https://www.pinterest.com/"
+        id: "discord",
+        title: "Discord",
+        img: "img/sites/discord.svg",
+        link: "https://discord.com/"
       },
       {
         id: "art-station",
         title: "ArtStation",
         img: "img/sites/artstation.svg",
         link: "https://www.artstation.com//"
-      },
-      {
-        id: "bilibili",
-        title: "Bilibili",
-        img: "img/sites/bilibili.svg",
-        link: "https://www.bilibili.com/"
-      },
-      {
-        id: "leetcode",
-        title: "LeetCode",
-        img: "img/sites/leetcode.svg",
-        link: "https://leetcode.com/"
       },
       {
         id: "reddit",
@@ -124,29 +88,6 @@ const websites: WebsitesData = {
         title: "OhMyCV",
         img: "https://ohmycv.app/apple-touch-icon.png",
         link: "https://ohmycv.app/"
-      },
-      {
-        id: "steam",
-        title: "Steam",
-        img: "img/sites/steam.svg",
-        link: "https://store.steampowered.com/"
-      },
-      {
-        id: "nazo",
-        title: "Nazo",
-        link: "https://nazo.one-story.cn"
-      },
-      {
-        id: "svgomg",
-        title: "SVGOMG",
-        img: "https://jakearchibald.github.io/svgomg/imgs/icon.png",
-        link: "https://jakearchibald.github.io/svgomg/"
-      },
-      {
-        id: "tiny-png",
-        title: "Tiny PNG",
-        img: "https://tinypng.com/images/panda-chewing-2x.png",
-        link: "https://tinypng.com/"
       }
     ]
   }
