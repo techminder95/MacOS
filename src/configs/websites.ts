@@ -30,12 +30,6 @@ const websites: WebsitesData = {
         link: "https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
-      },
-      {
         id: "my-twitter",
         title: "Twitter",
         img: "img/sites/twitter.svg",
@@ -93,12 +87,6 @@ const websites: WebsitesData = {
         title: "Bilibili",
         img: "img/sites/bilibili.svg",
         link: "https://www.bilibili.com/"
-      },
-      {
-        id: "zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/"
       },
       {
         id: "leetcode",

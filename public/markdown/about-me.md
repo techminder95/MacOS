@@ -1,4 +1,5 @@
 # About Me
+
 Hey there!
 
 A highly skilled and motivated Full Stack Developer with over five years of
@@ -8,4 +9,4 @@ dynamic work environments.
 
 ## Résumé
 
-- Normal version: [English](../resume/PEDRO%20COSTA.pdf)
+- Normal version: [EN](../resume/en.pdf) / [PO](../resume/po.pdf)

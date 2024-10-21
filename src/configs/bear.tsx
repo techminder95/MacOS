@@ -145,14 +145,6 @@ const bear: BearData[] = [
         icon: "i-simple-icons:stellar",
         excerpt: "Minimal reinforcement-learning toolbox for PyTorch...",
         link: "https://github.com/Renovamen/alkaid"
-      },
-      {
-        id: "fishmail",
-        title: "Fishmail",
-        file: "https://raw.githubusercontent.com/Renovamen/Fishmail/master/README.md",
-        icon: "i-game-icons:fish-escape",
-        excerpt: "上班的时候装作在 Gmail 上查邮件的样子看知乎摸鱼...",
-        link: "https://fishmail.vercel.app"
       }
     ]
   }

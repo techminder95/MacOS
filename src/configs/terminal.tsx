@@ -92,17 +92,6 @@ const terminal: TerminalData[] = [
                 https://zxh.me
               </a>
             </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @西伯利亚大恶龙
-              </a>
-            </li>
           </ul>
         )
       }
