@@ -2,4 +2,4 @@
 
 ![avawatz](../project/avawatz.png)
 
-AvaWatz is the next-generation AI decision intelligence company, specializing in Computer Vision and Autonomous Robotic Teaming solutions using Machine Learning and Physics-based algorithmic technologies. AvaWatz platform drives adaptive autonomous robotic systems built around a Sensing-Deciding-Acting paradigm.
+I built the AvaWatz platform using Next.js and TailwindCSS for the frontend, making it fast and responsive. For the backend, I used Express and Node.js to manage data and ensure smooth communication. This combination creates a reliable platform for AI-driven robotic systems.
