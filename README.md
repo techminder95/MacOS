@@ -1,6 +1,6 @@
 # playground-macos
 
-My portfolio website simulating macOS's GUI:
+My portfolio website simulating macOS's GUI: pedromacos.netlify.app
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
