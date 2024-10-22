@@ -14,12 +14,6 @@ const launchpadApps: LaunchpadData[] = [
     link: " https://avawatz.com/"
   },
   {
-    id: "gungnir",
-    title: "Gungnir",
-    img: "img/icons/launchpad/gungnir.png",
-    link: "https://vuepress-theme-gungnir.vercel.app/"
-  },
-  {
     id: "luxuary",
     title: "Luxurious Rooms",
     img: "img/icons/launchpad/inpoums.webp",
@@ -50,6 +44,12 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://www.vitamart.ca//"
   },
   {
+    id: "gungnir",
+    title: "Gungnir",
+    img: "img/icons/launchpad/gungnir.png",
+    link: "https://vuepress-theme-gungnir.vercel.app/"
+  },
+  {
     id: "amino-rewards",
     title: "Amino Rewards",
     img: "img/icons/launchpad/aminorewards_us.png",
@@ -62,10 +62,10 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://cerashealth.com/"
   },
   {
-    id: "yol-orekt",
-    title: "YOL-Orekt",
-    img: "img/icons/launchpad/g-yolorekt.png",
-    link: " https://yolorekt.finance/game"
+    id: "cash-cow",
+    title: "Cash Cow",
+    img: "img/icons/launchpad/g-cashcow.png",
+    link: "https://app.cashcowprotocol.com/"
   },
   {
     id: "hulk-cars",

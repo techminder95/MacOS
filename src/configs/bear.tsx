@@ -35,12 +35,12 @@ const bear: BearData[] = [
     icon: "i-octicon:repo",
     md: [
       {
-        id: "flint",
-        title: "Flint",
-        file: "https://raw.githubusercontent.com/Renovamen/flint/main/README.md",
+        id: "avawatz",
+        title: "Avawatz!",
+        file: "project/avawatz.md",
         icon: "i-heroicons-solid:fire",
-        excerpt: "A deep learning framework implemented in Numpy...",
-        link: "https://github.com/Renovamen/flint"
+        excerpt: "website for next-generation AI decision intelligence company",
+        link: "https://avawatz.com/"
       },
       {
         id: "portfolio-macos",
@@ -49,6 +49,14 @@ const bear: BearData[] = [
         icon: "i-ri:gamepad-line",
         excerpt: "My portfolio website simulating macOS's GUI...",
         link: "https://github.com/Renovamen/playground-macos"
+      },
+      {
+        id: "luxuary",
+        title: "Luxurious Rooms",
+        file: "https://raw.githubusercontent.com/techminer95/hotel-booking-system/main/README.md",
+        icon: "i-icon-park-outline:heavy-metal",
+        excerpt: "Implement hotel booking algorithm in Node...",
+        link: "https://github.com/techminer95/hotel-booking-system"
       },
       {
         id: "oh-my-cv",
@@ -65,22 +73,6 @@ const bear: BearData[] = [
         icon: "i-fa-brands:vuejs",
         excerpt: "Importing icons from different icon packs in Vue easily...",
         link: "https://oh-vue-icons.js.org"
-      },
-      {
-        id: "gungnir",
-        title: "Gungnir",
-        file: "https://raw.githubusercontent.com/Renovamen/vuepress-theme-gungnir/main/README.md",
-        icon: "i-akar-icons:sword",
-        excerpt: "A simple and beautiful blog theme for VuePress...",
-        link: "https://vuepress-theme-gungnir.vercel.app"
-      },
-      {
-        id: "metallic",
-        title: "Metallic",
-        file: "https://raw.githubusercontent.com/Renovamen/metallic/master/README.md",
-        icon: "i-icon-park-outline:heavy-metal",
-        excerpt: "A meta-learning library base on PyTorch...",
-        link: "https://github.com/Renovamen/metallic"
       },
       {
         id: "text-classification",
